@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (TableTest1)">369c124c2fa73010c62e51172799b629</button>
+        <item_parameter display_value="TableTest1 string">fa9c124c2fa73010c62e51172799b627</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-27 10:35:53</sys_created_on>
+        <sys_id>f29c124c2fa73010c62e51172799b630</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fa9c124c2fa73010c62e51172799b627</sys_name>
+        <sys_package display_value="test1" source="x_707711_test1">26dad6c82fa73010c62e51172799b6f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">26dad6c82fa73010c62e51172799b6f1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f29c124c2fa73010c62e51172799b630</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-27 10:35:53</sys_updated_on>
+        <ui_parameter display_value="String">7e9c124c2fa73010c62e51172799b62c</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

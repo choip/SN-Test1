@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>test1 TableTest1</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-27 10:35:52</sys_created_on>
+        <sys_id>569cde0c2fa73010c62e51172799b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test1 TableTest1</sys_name>
+        <sys_package display_value="test1" source="x_707711_test1">26dad6c82fa73010c62e51172799b6f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">26dad6c82fa73010c62e51172799b6f1</sys_scope>
+        <sys_update_name>sys_sg_data_item_569cde0c2fa73010c62e51172799b6e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-27 10:35:52</sys_updated_on>
+        <table>x_707711_test1_tabletest1</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=569cde0c2fa73010c62e51172799b6e2"/>
+</record_update>

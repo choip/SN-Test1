@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TableTest1" max_length="40" name="x_707711_test1_tabletest1" type="collection">
+        <element label="Boolean" max_length="40" name="boolean" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="DateTime" max_length="40" name="datetime" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Select" max_length="40" name="select" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="String" max_length="40" name="string" type="string"/>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
